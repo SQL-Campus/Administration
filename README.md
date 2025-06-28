@@ -1,4 +1,1 @@
-# Team Setup
-
-### Owner
-Mathis Neunzig
+# Administration
